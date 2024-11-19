@@ -1,0 +1,12 @@
+---
+ - name: Create interface and static ip
+   community.general.interfaces_file:
+     iface: enp0s3
+     option: address
+     value: 192.168.1.34
+
+ - name: Set Network mask
+   community.general.interfaces_file:
+     iface: enp0s3
+     option: netmask
+     value: 255.255.255.0
