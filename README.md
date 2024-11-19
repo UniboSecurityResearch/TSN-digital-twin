@@ -15,10 +15,8 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>. 
 -->
 
-# # TSN-digital-twin
+# TSN-digital-twin
 This repository contains the artifacts for the paper "Time-Sensitive Networking Digital Twin for STRIDE-based Security Testing".
-
-# Instructions for Configuring and Running the System
 
 ## Prerequisites
 
